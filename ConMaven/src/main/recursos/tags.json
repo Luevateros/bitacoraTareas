@@ -1,0 +1,26 @@
+[
+  {
+    "categoria": "Familia",
+    "color": "#37dddd"
+  },
+  {
+    "categoria": "Trabajo",
+    "color": "#9966ff"
+  },
+  {
+    "categoria": "Escuela",
+    "color": "#ef609a"
+  },
+  {
+    "categoria": "Ocio",
+    "color": "#fc9e49"
+  },
+  {
+    "categoria": "Casa",
+    "color": "#fce265"
+  },
+  {
+    "categoria": "",
+    "color": "#99ff66"
+  }
+]
